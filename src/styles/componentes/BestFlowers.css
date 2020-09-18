@@ -1,0 +1,16 @@
+.principal-bestSellingsFlowers {
+    text-align: center;
+}
+
+.h1-best {
+    margin-top: 3em;
+}
+
+.gallery-best {
+    justify-content: center;
+    display: flex;
+}
+
+.img-best {
+    margin-left: 1em;
+}

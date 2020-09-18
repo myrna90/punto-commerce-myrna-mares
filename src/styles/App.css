@@ -1,67 +1,70 @@
 /*Variables de diseño*/
 :root {
-    --color-white: #FBFBFB;
-    --color-black: black;
-    --color-black-out: #1a1a1a;
-    --color-grey: #EBEBEB;
+  --color-white: #fbfbfb;
+  --color-black: black;
+  --color-black-out: #1a1a1a;
+  --color-grey: #ebebeb;
 }
 
-.container {
-    display: grid;
-    grid-template-rows: 50px 120px 70px 480px 380px 350px 500px 350px 300px 50px;
-    grid-template-areas: 'register' 'search' 'menuBar' 'carousel' 'gallery' 'sellings' 'offers' 'brands' 'contact' 'footer';
-    height: 100vh;
-    box-sizing: border-box;
-    overflow-x: hidden;
-    background-color: var(--color-white);
+.container-principal {
+  display: grid;
+  grid-template-rows: 50px 120px 70px 80% 770px 670px 350px 300px 300px 50px;
+  grid-template-areas: "register" "search" "menuBar" "carousel" "gallery" "sellings" "offers" "brands" "contact" "footer";
+  height: 100vh;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  background-color: var(--color-white);
 }
 
 .principal-register {
-    grid-area: register;
-    background-color: var(--color-black);
-    display: inline-flex;
-    color: var(--color-white);
+  grid-area: register;
+  background-color: var(--color-black);
+  color: var(--color-white);
 }
 
-.principal-searchBar{
- grid-area: search;
- background-color: var(--color-grey);
+.principal-searchBar {
+  grid-area: search;
+  background-color: var(--color-grey);
 }
 
 .principal-menu {
-    grid-area: menuBar;
+  grid-area: menuBar;
 }
 
 .principal-carousel {
-    grid-area: carousel;
+  grid-area: carousel;
 }
 
 .principal-discountGallery {
-    grid-area: gallery;
-
+  grid-area: gallery;
 }
 
 .principal-bestSellingsFlowers {
-    grid-area: sellings;
+  grid-area: sellings;
 }
 
 .principal-exclusiveOffers {
-    grid-area: offers;
+  grid-area: offers;
 }
 
 .principal-brands {
-    grid-area: brands;
+  grid-area: brands;
 }
 
 .principal-contact {
-    grid-area: contact;
-    background-color: var(--color-black-out);
-    color: var(--color-white);
+  grid-area: contact;
+  background-color: var(--color-black-out);
+  color: var(--color-white);
 }
 
 .principal-footer {
-    grid-area: footer;
-    background-color: var(--color-black);
-    color: var(--color-white);
+  grid-area: footer;
+  background-color: var(--color-black);
+  color: var(--color-white);
 }
 
+.p-footer {
+    font-size: 12px;
+    margin-top: 1em;
+    margin-left: 12em;
+}

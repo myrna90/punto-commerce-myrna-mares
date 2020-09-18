@@ -1,0 +1,31 @@
+.h1-exclusive {
+    text-align: center;
+}
+
+.img-rectangle {
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.div-offers {
+    display: flex;
+}
+.img-offers {
+    margin-left: 1em;
+    width: 150px;
+    height: 150px;
+}
+
+.text-offers {
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.heart-offers {
+    margin-top: 0;
+}
+
+.cart-sale {
+ margin-left: 1em;
+}

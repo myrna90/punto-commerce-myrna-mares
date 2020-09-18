@@ -1,0 +1,33 @@
+.principal-menu {
+    display: flex;
+}
+
+.nav {
+    margin-left: 5.5em;
+    margin-top: .5em;
+}
+
+.sale-bag {
+    display: grid;
+    grid-template-areas: 'bag items' 'bag total';
+    width: 200px;
+    background-color: var(--color-grey);
+    margin-left: 21em;
+}
+
+.bag-size {
+    grid-area: bag;
+    margin-left: .5em;
+    margin-top: .5em;
+}
+
+.p-items {
+    grid-area: items;
+    border: none;
+    background-color: var(--color-grey);
+}
+
+.p-total {
+    grid-area: total;
+    margin-left: .2em;
+}

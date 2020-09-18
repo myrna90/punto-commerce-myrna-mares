@@ -2,7 +2,7 @@ import React from 'react';
 import Register from '../components/Register';
 import SearchBar from '../components/SearchBar';
 import Menu from '../components/Menu';
-import Carousel from '../components/Carousel';
+import CarouselView from '../components/Carousel';
 import DiscountGallery from '../components/DiscountGallery';
 import BestSellingsFlowers from '../components/BestSellingsFlowers';
 import ExclusiveOffers from '../components/ExclusiveOffers';
@@ -12,11 +12,11 @@ import Footer from '../components/Footer';
 
 const ViewComponents = () => {
     return(
-        <div className="container">
+        <div className="container-principal">
         <Register/>
         <SearchBar/>
         <Menu/>
-        <Carousel/>
+        <CarouselView/>
         <DiscountGallery/>
         <BestSellingsFlowers/>
         <ExclusiveOffers/>
