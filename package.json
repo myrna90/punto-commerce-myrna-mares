@@ -20,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build "
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,5 +38,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Proyecto punto commerce",
+  "main": "service-worker.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ https://myrna90.github.io/punto-commerce-myrna-mares.git"
+  },
+  "author": "myrna90",
+  "license": "ISC",
+  "bugs": {
+    "url": " https://myrna90.github.io/punto-commerce-myrna-mares/issues"
+  },
+  "homepage": " https://myrna90.github.io/punto-commerce-myrna-mares"
 }
+
