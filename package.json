@@ -1,4 +1,5 @@
 {
+  "homepage": "https://myrna90.github.io/punto-commerce-myrna-mares",
   "name": "punto-commerce-myrna-mares",
   "version": "0.1.0",
   "private": true,
@@ -50,7 +51,6 @@
   "license": "ISC",
   "bugs": {
     "url": " https://myrna90.github.io/punto-commerce-myrna-mares/issues"
-  },
-  "homepage": " https://myrna90.github.io/punto-commerce-myrna-mares"
+  }
 }
 
