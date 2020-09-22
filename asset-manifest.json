@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/punto-commerce-myrna-mares/static/css/main.83ea7077.chunk.css",
+    "main.js": "/punto-commerce-myrna-mares/static/js/main.958eb44d.chunk.js",
+    "main.js.map": "/punto-commerce-myrna-mares/static/js/main.958eb44d.chunk.js.map",
+    "runtime-main.js": "/punto-commerce-myrna-mares/static/js/runtime-main.8245086f.js",
+    "runtime-main.js.map": "/punto-commerce-myrna-mares/static/js/runtime-main.8245086f.js.map",
+    "static/js/2.62e39efe.chunk.js": "/punto-commerce-myrna-mares/static/js/2.62e39efe.chunk.js",
+    "static/js/2.62e39efe.chunk.js.map": "/punto-commerce-myrna-mares/static/js/2.62e39efe.chunk.js.map",
+    "index.html": "/punto-commerce-myrna-mares/index.html",
+    "precache-manifest.727a617818987c6941075ada4715f373.js": "/punto-commerce-myrna-mares/precache-manifest.727a617818987c6941075ada4715f373.js",
+    "service-worker.js": "/punto-commerce-myrna-mares/service-worker.js",
+    "static/css/main.83ea7077.chunk.css.map": "/punto-commerce-myrna-mares/static/css/main.83ea7077.chunk.css.map",
+    "static/js/2.62e39efe.chunk.js.LICENSE.txt": "/punto-commerce-myrna-mares/static/js/2.62e39efe.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/punto-commerce-myrna-mares/static/media/1.2f0b48ba.jpg",
+    "static/media/3.jpg": "/punto-commerce-myrna-mares/static/media/3.bd6af691.jpg",
+    "static/media/4.jpg": "/punto-commerce-myrna-mares/static/media/4.98f0a861.jpg",
+    "static/media/5.jpg": "/punto-commerce-myrna-mares/static/media/5.f8c448fe.jpg",
+    "static/media/6.jpg": "/punto-commerce-myrna-mares/static/media/6.31a36426.jpg",
+    "static/media/Rectangle1.png": "/punto-commerce-myrna-mares/static/media/Rectangle1.406fc0c5.png",
+    "static/media/Rectangle2.png": "/punto-commerce-myrna-mares/static/media/Rectangle2.b888b383.png",
+    "static/media/Rectangle3.png": "/punto-commerce-myrna-mares/static/media/Rectangle3.9df8fdc5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8245086f.js",
+    "static/js/2.62e39efe.chunk.js",
+    "static/css/main.83ea7077.chunk.css",
+    "static/js/main.958eb44d.chunk.js"
+  ]
+}
