@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a103808339b4918daf4460c64e703e77",
+    "revision": "fc73234ceab4b9f1127d76c3afa23a38",
     "url": "/punto-commerce-myrna-mares/index.html"
   },
   {
-    "revision": "1ee2e344d98b0a4884f6",
+    "revision": "4a82a6c75d8daf852572",
     "url": "/punto-commerce-myrna-mares/static/css/main.83ea7077.chunk.css"
   },
   {
-    "revision": "4fccd6a174f86ad238fd",
-    "url": "/punto-commerce-myrna-mares/static/js/2.62e39efe.chunk.js"
+    "revision": "22744f3e269bb125edd9",
+    "url": "/punto-commerce-myrna-mares/static/js/2.ffcf3ef5.chunk.js"
   },
   {
     "revision": "56729d980da09961afe8d497a21eec12",
-    "url": "/punto-commerce-myrna-mares/static/js/2.62e39efe.chunk.js.LICENSE.txt"
+    "url": "/punto-commerce-myrna-mares/static/js/2.ffcf3ef5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ee2e344d98b0a4884f6",
-    "url": "/punto-commerce-myrna-mares/static/js/main.958eb44d.chunk.js"
+    "revision": "4a82a6c75d8daf852572",
+    "url": "/punto-commerce-myrna-mares/static/js/main.9d57d025.chunk.js"
   },
   {
     "revision": "a5f48a5c5b77cb98b67d",

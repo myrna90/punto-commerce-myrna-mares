@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/punto-commerce-myrna-mares/precache-manifest.727a617818987c6941075ada4715f373.js"
+  "/punto-commerce-myrna-mares/precache-manifest.00dde677a4421cc053102c918df43e1a.js"
 );
 
 self.addEventListener('message', (event) => {
