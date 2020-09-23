@@ -9,13 +9,17 @@ import "../styles/componentes/BestFlowers.css";
 import "../styles/componentes/Exclusive.css";
 import "../styles/componentes/Contact.css";
 import ViewComponents from "./ViewComponents";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Route, Switch, HashRouter } from 'react-router-dom';
 
 function App() {
   return (
-    <Router>
-      <Route exact path="/" component={ViewComponents} />
-    </Router>
+    <div>
+      <HashRouter>
+        <Switch>
+        <Route exact path="/" component={ViewComponents} />
+        </Switch>
+      </HashRouter>
+    </div>
   );
 }
 
